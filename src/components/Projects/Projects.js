@@ -38,7 +38,7 @@ function Projects() {
               isBlog={false}
               title="Student Master"
               description="Student Master is a web-based application built with React, Node.js, and MongoDB for efficient student management. It allows users to add, edit, view, and delete student details while also managing academic results for up to six semesters. faculty can input and view semester-wise marks, with pass/fail status displayed for each subject.  The system is  user-friendly and designed to streamline student data and academic performance tracking.."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
+              ghLink="http://github.com/NidhiParikh008"
               
             />
           </Col>
@@ -71,7 +71,7 @@ function Projects() {
               isBlog={false}
               title="Admin pannel"
               description="Admin Panel is a web-based application developed using React for the frontend, Node.js for the backend, and MongoDB for data storage. It provides a secure registration and login system for administrators to manage user details effectively. Admins can view a list of all registered users along with their registration date and time, ensuring easy tracking. The panel allows admins to edit user details, such as their address,mobile number and etc.this Admin Panel streamlines user management for any system."
-              ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
+              ghLink="http://github.com/NidhiParikh008"
               // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
             />
           </Col>
